@@ -1,0 +1,26 @@
+{
+  "guild_id": 123456789,
+  "last_updated": "2025-06-24T15:41:38.845907",
+  "action": "key_generated",
+  "active_keys": [
+    {
+      "key_string": "TEST-KEY-12345",
+      "generated_by": "TestUser",
+      "expiry_time": "2025-06-25 15:41:38.494292",
+      "reason": "GitHub sync test",
+      "used": false,
+      "used_by": null,
+      "used_at": null,
+      "created_at": "2025-06-24 15:41:38.494318"
+    }
+  ],
+  "used_keys": [],
+  "whitelisted_members": [],
+  "stats": {
+    "total_keys": 1,
+    "active_keys": 1,
+    "used_keys": 0,
+    "whitelisted_members": 0,
+    "blacklisted_members": 0
+  }
+}
