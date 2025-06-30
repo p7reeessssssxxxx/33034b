@@ -1,17 +1,17 @@
 {
   "guild_id": 1301989428830670889,
-  "last_updated": "2025-06-24T15:42:42.021587",
+  "last_updated": "2025-06-30T10:55:30.183809",
   "action": "key_generated",
   "active_keys": [
     {
-      "key_string": "2JHDU71HV7XQ-24DB",
-      "generated_by": "n.exc",
-      "expiry_time": "2025-06-25 15:42:42.021558",
+      "key_string": "I5BOXEOD71A9-026D",
+      "generated_by": "bodp",
+      "expiry_time": "2125-06-06 10:55:30.183743",
       "reason": "",
       "used": false,
       "used_by": null,
       "used_at": null,
-      "created_at": "2025-06-24 15:42:42.021568"
+      "created_at": "2025-06-30 10:55:30.183793"
     }
   ],
   "used_keys": [],
