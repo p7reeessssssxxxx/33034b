@@ -13,7 +13,7 @@ return function(ctx)
 				for _, s in ipairs(ps:GetDescendants()) do
 					if s:IsA("LocalScript") or s:IsA("ModuleScript") then
 						local name = s.Name:lower()
-						if name:find("acli") or name:find("adonis") or name:find("anticheat") or name:find("anti_cheat") then
+						if name:find("acli") or name:find("adonis") or name:find("anticheat") or name:find("anti_cheat") or name:find("simpleAC") or name:find("Krypton") then
 							banLog("AC-DETECT", "Found AC script: " .. s:GetFullName())
 						end
 					end
